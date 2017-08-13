@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2fbcf8ff198b85eb6a3b3fee190662465e8260c36aa167fc7705d6bf50e57f0b"
+            "sha256": "71c41585fee8a7b29bee3b1c03941fa3b6a56d802db5e396faf7a85e3b3f9dfa"
         },
         "requires": {},
         "sources": [
@@ -79,5 +79,51 @@
             "version": "==1.10.11"
         }
     },
-    "develop": {}
+    "develop": {
+        "decorator": {
+            "version": "==4.1.2"
+        },
+        "ipdb": {
+            "version": "==0.10.3"
+        },
+        "ipython": {
+            "version": "==6.1.0"
+        },
+        "ipython-genutils": {
+            "version": "==0.2.0"
+        },
+        "jedi": {
+            "version": "==0.10.2"
+        },
+        "pexpect": {
+            "version": "==4.2.1"
+        },
+        "pickleshare": {
+            "version": "==0.7.4"
+        },
+        "prompt-toolkit": {
+            "version": "==1.0.15"
+        },
+        "ptyprocess": {
+            "version": "==0.5.2"
+        },
+        "pygments": {
+            "version": "==2.2.0"
+        },
+        "setuptools": {
+            "version": "==36.2.7"
+        },
+        "simplegeneric": {
+            "version": "==0.8.1"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "traitlets": {
+            "version": "==4.3.2"
+        },
+        "wcwidth": {
+            "version": "==0.1.7"
+        }
+    }
 }
